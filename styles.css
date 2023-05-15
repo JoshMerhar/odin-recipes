@@ -1,0 +1,17 @@
+body {
+    background-color:tan;
+}
+
+.container {
+    background-color:lightgrey;
+    border: solid 2px;
+}
+
+#link-list {
+    font-family: Helvetica, sans-serif;
+    font-size: large;
+}
+
+h1 {
+    text-align: center;
+}
